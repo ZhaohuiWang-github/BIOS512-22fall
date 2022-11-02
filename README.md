@@ -1,5 +1,6 @@
 # BIOS512-22fall
-documents for BIOS 512
+Assignments for BIOS 512
+
 
 
 NBViewer:  
